@@ -1,7 +1,6 @@
 ## Hello, I'm Ale`s [frontend web developer 👩🏻‍💻]
 
 
----
 
 ### Skills and Tools
 
